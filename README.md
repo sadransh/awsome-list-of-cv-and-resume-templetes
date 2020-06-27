@@ -1,15 +1,11 @@
 # awsome-list-of-cv-and-resume-templetes
 A list of awesome criculium vitae(CV) and resume in latex and word format.
-
+I have tried to gather first edition and unique ones only.
 <!-- <p align='center'>
 <img src = '/overall_pi_chart.png' height="300px">  
 <img src = '/overall_histogram.png' height="4300px">
 </p> -->
-
-## CV 
-* 
-* 
-<!-- 1	| Onepage-OneColumn	| .... | latex |  <img src="cv.png" alt-="CV example" width="300px"/> | -->
+ 
 *#* | *Type* | *Name* | *format* | *preview* | 
 :---: | :---: |:--- | :---: | :---: | 
 1	| multipage - OneColumn	| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | latex |  <img src="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png" alt-="CV example" width="300px"/> |
@@ -51,11 +47,10 @@ A list of awesome criculium vitae(CV) and resume in latex and word format.
 37	| multipage - oneColumn	| [ GironsLopez CV ](https://github.com/GironsLopez/gironslopez-cv) | latex |  <img src="images/GironsLopez.png" alt-="jankapunkt" width="300px"/> |
 38	| multipage - oneColumn	| [ eivindml CV ](https://github.com/xu-cheng/cv) | latex |  <img src="images/JianXu.png" alt-="jankapunkt" width="300px"/> |
 
-other : 
-
-https://github.com/rgeirhos/academic-cv-publications
+<!-- other : 
+https://github.com/rgeirhos/academic-cv-publications -->
 
 
 
 ## Acknowledgment
-* I have gathered this list by myself. Templete is from awesome-deep-text-detection-recognition's list
+* I have gathered this list by myself. Templete is from awesome-deep-text-detection-recognition's list.
