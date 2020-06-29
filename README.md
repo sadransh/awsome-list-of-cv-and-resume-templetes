@@ -46,6 +46,21 @@ I have tried to gather first edition and unique ones only.
 36	| multipage - oneColumn	| [ eivindml CV ](https://github.com/eivindml/cv) | latex |  <img src="images/eivin.png" alt-="jankapunkt" width="300px"/> |
 37	| multipage - oneColumn	| [ GironsLopez CV ](https://github.com/GironsLopez/gironslopez-cv) | latex |  <img src="images/GironsLopez.png" alt-="jankapunkt" width="300px"/> |
 38	| multipage - oneColumn	| [ eivindml CV ](https://github.com/xu-cheng/cv) | latex |  <img src="images/JianXu.png" alt-="jankapunkt" width="300px"/> |
+39	| multipage - oneColumn	| [ cecilesauder CV ](https://github.com/cecilesauder/CV_LaTeX) | latex |  <img src="https://github.com/cecilesauder/CV_LaTeX/blob/master/screen.png" alt-="jankapunkt" width="300px"/> |
+40	| multipage - oneColumn	| [ agonzalezro CV ](https://github.com/agonzalezro/Curriculum-Vitae) | latex |  <img src="images/agonzalezro.png" alt-="jankapunkt" width="300px"/> |
+41	| multipage - oneColumn	| [ mcchran CV ](https://github.com/mcchran/lean_cv) | latex |  <img src="images/mcchran.png" alt-="jankapunkt" width="300px"/> |
+42	| multipage - oneColumn	| [ isteves CV ](https://github.com/isteves/resume) | latex |  <img src="https://raw.githubusercontent.com/isteves/resume/master/images/cv-pdf.PNG" alt-="jankapunkt" width="300px"/> |
+43	| multipage - oneColumn	| [ janvorisek CV ](https://github.com/janvorisek/minimal-latex-cv) | latex |  <img src="https://camo.githubusercontent.com/a7813d6482f6093d821e2f9b3c948d639ac78fc8/68747470733a2f2f6a616e2e766f726973656b2e6d652f696d616765732f6d61696e2d312e6a7067" alt-="jankapunkt" width="300px"/> |
+44	| multipage - oneColumn	| [ jchodera CV ](https://github.com/jchodera/latex-cv) | latex |  <img src="images/jchodera.png" alt-="jankapunkt" width="300px"/> |
+45	| multipage - oneColumn	| [ qwhxm CV ](https://github.com/qwhxm/1.5-column-cv) | latex |  <img src="https://github.com/qwhxm/1.5-column-cv/blob/master/example-1/cv-example-1.png" alt-="jankapunkt" width="300px"/> |
+46	| multipage - oneColumn	| [ gbmj timeline CV ](https://github.com/gbmj/gbmj-timeline-cv) | latex |  <img src="https://github.com/gbmj/gbmj-timeline-cv/blob/master/sample-cv-p1n.png" alt-="jankapunkt" width="300px"/> |
+47	| multipage - oneColumn	| [ thoughteer neat CV ](https://github.com/thoughteer/neat-cv) | latex |  <img src="https://github.com/thoughteer/neat-cv/blob/master/cv.webp" alt-="jankapunkt" width="300px"/> |
+48	| multipage - oneColumn	| [ saidziani CV ](https://github.com/saidziani/CV-Template) | latex |  <img src="images/saidziani.png" alt-="jankapunkt" width="300px"/> |
+49	| multipage - oneColumn	| [ Pseudomanifold CV ](https://github.com/Pseudomanifold/latex-cv/) | latex |  <img src="images/Pseudomanifold.png" alt-="jankapunkt" width="300px"/> |
+50	| multipage - oneColumn	| [ adarshbarik CV ](https://github.com/Adarsh-Barik/MinimalMaterialCV) | latex |  <img src="images/adarshbarik.png" alt-="jankapunkt" width="300px"/> |
+51	| multipage - oneColumn	| [ bobok CV ](https://github.com/alexboboc/AlexBobocCV) | latex |  <img src="images/bobok.png" alt-="jankapunkt" width="300px"/> |
+52	| multipage - oneColumn	| [ latex ninga modern CV ](https://github.com/latex-ninja/modern-simple-cv) | latex |  <img src="https://raw.githubusercontent.com/latex-ninja/hipster-cv/master/previews/modern-simple-cv.png" alt-="jankapunkt" width="300px"/> |
+53	| onepage - twoColumn	| [ transducer CV ](https://github.com/transducer/CV-and-Cover-Letter-in-LaTeX) | latex |  <img src="images/transducer.png" alt-="jankapunkt" width="300px"/> |
 
 <!-- other : 
 https://github.com/rgeirhos/academic-cv-publications -->
