@@ -10,18 +10,19 @@ I have tried to gather first editions and unique ones only.
  ### Table of contents
  
  
-1. [A note on ATS](#About-ATS-(Applicant-Tracking-System)-Friendly-resume/CV-(Click-to-expand!))
+1. [A note on ATS](#a-note-on-ats)
 2. [Latex Templetes](#latex)
 3. [Word Templetes](#word)
 4. [Resume Review](#cv-review)
- 
+
+#### A note on ATS
  <details>
   <summary>About ATS (Applicant Tracking System)-Friendly resume/CV (Click to expand!) </summary>
- Basically if you believe your resume is going to get read by an ATS system prior to get read by human, be cautios about Latex or even PDF files for is some  cases. While you cannot be sure that your CV will be friendly to an ATS, you can reduce the risk by taking a few steps:
+* Basically if you believe your resume is going to get read by an ATS system prior to get read by human, be cautios about Latex or even PDF files in some cases. While you cannot be sure that your CV will be friendly to an ATS, you can reduce the risk by taking a few steps:
 
- 
- 
+  
 **Note:** This is usually not the case when you are applying to Universities.
+ 
 1. test your file with basic available tools. example pdftotext tool in python 
 install (terminal) : 
  ```
@@ -130,8 +131,7 @@ https://github.com/dyweb/awesome-resume-for-chinese
 * If you want a resume/CV comments give send me your CV at my email. I have CE/CS/ECE background, So cannot make advanced comments for other majors. 
 
 ```
-_email:[mygithubid]@gmail.com _
-
+email: [mygithubid]@gmail.com
 ```
 
 ### Acknowledgment
