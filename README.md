@@ -6,6 +6,43 @@ I have tried to gather first editions and unique ones only.
 <img src = '/overall_histogram.png' height="4300px">
 </p> -->
  
+ 
+ ### Table of contents
+ 
+ 
+1. [A note on ATS](#About-ATS-(Applicant-Tracking-System)-Friendly-resume/CV-(Click-to-expand!))
+2. [Latex Templetes](#latex)
+3. [Word Templetes](#word)
+4. [Resume Review](#cv-review)
+ 
+ <details>
+  <summary>About ATS (Applicant Tracking System)-Friendly resume/CV (Click to expand!) </summary>
+ Basically if you believe your resume is going to get read by an ATS system prior to get read by human, be cautios about Latex or even PDF files for is some  cases. While you cannot be sure that your CV will be friendly to an ATS, you can reduce the risk by taking a few steps:
+
+ 
+ 
+**Note:** This is usually not the case when you are applying to Universities.
+1. test your file with basic available tools. example pdftotext tool in python 
+install (terminal) : 
+ ```
+ pip install pdftotext
+ pdftotext ~/path/to/cv.pdf -
+ 
+ ```
+ This will show you a conversion, and everything should look readable and in the right place, no wiered characters, no misplacements. 
+ this does not provide any gurrentee as some ATS cannot even open a pdf! 
+ 
+2. Pass your CV to some job application and see if the website can read details in your CV correctly. platforms like brassring, myworkdayjobs, etc.
+
+3. (for ATS) avoid using rare fonts, graphics, icons. ( While these makes CV more abstract and readable, ATS is not designed to understand these.)
+3. (for ATS) Use word templete (and even upload the word file) as they are the safe side, I will put some templetes at the end of this. 
+ 
+</details>
+
+
+
+### Latex
+ 
 *#* | *Type* | *Name* | *format* | *preview* | 
 :---: | :---: |:--- | :---: | :---: | 
 1	| multipage - OneColumn	| [Awesome-CV](https://github.com/posquit0/Awesome-CV) | latex |  <img src="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png" alt-="CV example" width="300px"/> |
@@ -81,8 +118,21 @@ https://github.com/saadq/resumake.io
 https://github.com/prat0318/json_resume
 https://github.com/dyweb/awesome-resume-for-chinese
  -->
+ 
+### Word
 
+*#* | *Type* | *Name* | *format* | *preview* | 
+:---: | :---: |:--- | :---: | :---: | 
+1	| singlepage, multipage - OneColumn	| [Wonsulting-CV](https://docs.google.com/document/d/1cnea3rniQWDA2t6SdNxXlAtzNs1YFRkS3qrgdoJAe18/edit) | word |  <img src="images/won.png" alt-="CV example" width="300px"/> |
+2	|do a PR!	|  | word |  <img src="https://www.clipartmax.com/png/full/112-1125405_document-microsoft-word-icon-microsoft-word-icon-png.png" alt-="sc932" width="120px"/> |
 
+### CV Review 
+* If you want a resume/CV comments give send me your CV at my email. I have CE/CS/ECE background, So cannot make advanced comments for other majors. 
 
-## Acknowledgment
-* I have gathered this list by myself. Templete is from awesome-deep-text-detection-recognition's list.
+```
+_email:[mygithubid]@gmail.com _
+
+```
+
+### Acknowledgment
+* Templete is from awesome-deep-text-detection-recognition's list.
